@@ -181,5 +181,5 @@ View [CODE_OF_CONDUCT.md](https://github.com/akhil-aggarwal/cookie/blob/main/COD
 ## License
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-If you liked this project, please leave a 🌟
+If you liked this project, please leave a 🌟 Testing Something
 
